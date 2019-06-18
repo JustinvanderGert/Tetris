@@ -2,7 +2,9 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
-[Bb]uilds/
+/[Bb]uilds/
+/[Ll]ibrary/
+*.meta
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
